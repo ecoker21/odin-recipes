@@ -9,3 +9,17 @@ h2 {color: #38664c;
 
 
 .descrip {font-size: large;}
+
+.lasagna {color: #ffd381;
+          text-decoration: underline;}
+        
+#pasta {width: 500px;
+        height: auto;}
+
+
+.burger {color: #e5b73b;
+         text-decoration: underline;}
+
+
+#meat {width: 500px;
+       height: auto;}
