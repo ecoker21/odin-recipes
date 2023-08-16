@@ -1,3 +1,24 @@
-body {background-color:lightpink;}
-h1 {color: blanchedalmond;}
+body {background-color:rgb(146, 14, 33);}
+h1 {color: rgb(242, 242, 25);
+    text-align: center;
+    font-size: 3em;
+    text-decoration: underline;}
 
+
+
+
+
+
+
+/* Link Styles */
+
+a {color: yellow;}
+a:visited{color: darkblue;}
+a:hover{color: white;}
+
+
+li {margin-top: 25px;}
+
+ul {display: inline-block;
+   font-size: 1.5em;
+   list-style-type: none;}
